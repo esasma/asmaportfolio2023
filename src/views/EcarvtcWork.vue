@@ -3,9 +3,9 @@
 
 
 <template>
-  <div class="flex justify-center items-center bg-black">
-    <!--- more free and premium Tailwind CSS components at https://tailwinduikit.com/ --->
-    <div class="2xl:mx-auto 2xl:container lg:px-20 lg:py-16 md:py-12 md:px-6 py-9 px-4 w-96 sm:w-auto">
+  <div class="flex justify-center items-center bg-black mb-32 opacity-1000">
+
+    <div class=" 2xl:mx-auto 2xl:container lg:px-20 lg:py-16 md:py-12 md:px-6 py-9 px-4 w-96 sm:w-auto">
       <div role="main" class="flex flex-col items-center justify-center">
         <h1 class="text-4xl font-semibold leading-9 text-center text-gray-800 dark:text-gray-50">Ecarvtc</h1>
         <p class="text-base leading-normal text-center text-gray-600 dark:text-white mt-4 lg:w-1/2 md:w-10/12 w-11/12">
@@ -39,7 +39,7 @@
 
             </div>
             <img src="../assets/Ecarvtc/ecar2.jpg" alt="sitting place" class="w-full mt-8 md:mt-6 hidden sm:block" />
-            <img class="w-full mt-4 sm:hidden" src="" alt="sitting place" />
+            <img class="w-full mt-4 sm:hidden" src="../assets/Ecarvtc/ecar2.jpg" alt="sitting place" />
           </div>
         </div>
 
@@ -49,7 +49,7 @@
             <div>
             </div>
             <img src="../assets/Ecarvtc/ecar3.jpg" alt="sitting place" class="w-full sm:block hidden" />
-            <img class="w-full sm:hidden" src="https://i.ibb.co/dpXStJk/Rectangle-29.png" alt="sitting place" />
+            <img class="w-full sm:hidden" src="../assets/Ecarvtc/ecar3.jpg" alt="sitting place" />
           </div>
 
 
