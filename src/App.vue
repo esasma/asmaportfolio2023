@@ -6,7 +6,7 @@
   <div>
     <div class="noise"></div>
     <div
-      class="fixed top-0 left-0 right-0 mx-[5vw] mt-[5vh] sm:mt-[7.5vh] flex items-center justify-between py-3 px-5 xl:py-4 xl:px-7 xl:text-2xl 3xl:py-6 3xl:px-10 3xl:text-3xl text-xl font-light 3xl:p-8">
+      class="absolute top-0 left-0 right-0 mx-[5vw] mt-[5vh] sm:mt-[7.5vh] flex items-center justify-between py-3 px-5 xl:py-4 xl:px-7 xl:text-2xl 3xl:py-6 3xl:px-10 3xl:text-3xl text-xl font-light 3xl:p-8">
       <router-link to="/work"
         class="text-center my-2 flex items-center justify-center xl:text-xl text-base font-bold text-black relative uppercase before:transition-all after:transition-all"
         id="home"> work</router-link>
