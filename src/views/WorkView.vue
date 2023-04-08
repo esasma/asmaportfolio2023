@@ -74,11 +74,6 @@
 
 <script>
 
-function Refresh() {
-  setTimeout(() => {
-    document.location.reload();
-  }, 1);
-}
 </script>
 
 

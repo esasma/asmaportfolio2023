@@ -1,12 +1,5 @@
 <script setup>
-import { onMounted } from "vue";
 
-
-function Refresh() {
-  setTimeout(() => {
-    document.location.reload();
-  }, 1);
-}
 </script>
 
 <template>
@@ -17,7 +10,7 @@ function Refresh() {
       <router-link to="/work"
         class="text-center my-2 flex items-center justify-center xl:text-xl text-base font-bold text-black relative uppercase before:transition-all after:transition-all"
         id="home"> work</router-link>
-      <router-link to="/" @click="Refresh()"
+      <router-link to="/"
         class="text-center my-2 flex items-center justify-center xl:text-xl text-base font-bold text-black relative uppercase before:transition-all after:transition-all"
         id="home"> <img src="./assets/logoasma.jpg"></router-link>
       <router-link to="/contact"
