@@ -4,7 +4,6 @@
 
 <template>
   <div>
-    <div class="noise"></div>
     <div
       class="absolute top-0 left-0 right-0 mx-[5vw] mt-[5vh] sm:mt-[7.5vh] flex items-center justify-between py-3 px-5 xl:py-4 xl:px-7 xl:text-2xl 3xl:py-6 3xl:px-10 3xl:text-3xl text-xl font-light 3xl:p-8">
       <router-link to="/work"

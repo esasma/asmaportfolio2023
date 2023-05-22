@@ -1,5 +1,6 @@
 <template>
   <div>
+    <div class="noise"></div>
     <div class="flex justify-end mr-60 mt-40">
       <ligne />
     </div>
