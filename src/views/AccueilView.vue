@@ -5,13 +5,13 @@
       <ligne />
     </div>
     <div>
-      <h1 class="text-6xl font-extrabold text-right uppercase m-12 mr-48 ">Portfolio</h1>
-      <p class="text-right font-semibold mr-48 -mt-10"> Asma Es-sabbar <br />
+      <h1 class="md:text-6xl text-3xl font-extrabold text-right uppercase m-2 mb-12 md:m-12 mr-48 ">Portfolio</h1>
+      <p class="text-right font-semibold md:mr-10 mr-48 md:-mt-10 mt-10"> Asma Es-sabbar <br />
         Développeuse </p>
     </div>
 
     <div>
-      <p class="text-left mt-36 ml-28 font-extrabold"> MMI Montbléliard <br />
+      <p class="text-left mt-36 md:ml-28 font-extrabold"> MMI Montbléliard <br />
         2023
       </p>
     </div>
