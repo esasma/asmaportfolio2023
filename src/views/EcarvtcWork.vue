@@ -3,8 +3,7 @@
     <div class="container lg:px-6 lg:py-10 lg:mx-auto lg:mb-44">
       <div class=" mt-32 lg:-mx-6 lg:flex lg:items-center">
         <img class="object-cover md:w-full lg:w-5/12 w-[338px] md:h-72 lg:h-2/3 absolute"
-          src="https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
-          alt="">
+          src="../assets/Ecarvtc/Ecarvtc.jpg" alt="">
 
         <div class=" relative top-56 md:top-0 lg:ml-[500px] lg:mt-6 lg:w-1/2  bg-blue-600 md:py-20 px-7 py-4">
           <p class="text-sm text-white uppercase">Wordpress</p>
