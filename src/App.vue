@@ -19,7 +19,7 @@
     <router-view class="mx-[5vw] mt-40 sm:mt-44 md:mt-48 lg:mt-40 xl:mt-44 2xl:mt-40 3xl:mt-60 w-auto"></router-view>
   </div>
 
-  <footer class="footer footer-center fixed bottom-0 w-full p-5 bg-black text-white ">
+  <footer class="footer footer-center fixed bottom-0 w-full p-5 bg-black text-white text-sm md:text-lg ">
     <div class="text-center">
       <p>
         Portfolio MMI © 2023 -
@@ -39,8 +39,7 @@
   width: 100%;
   height: 100%;
   content: "";
-  opacity: 0.08;
-  z-index: 100;
+  opacity: 0.05;
   pointer-events: none;
   background: url(./assets/noise.gif);
 }
