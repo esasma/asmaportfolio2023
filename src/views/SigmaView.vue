@@ -3,7 +3,7 @@
         <div class="container lg:px-6 lg:py-10 lg:mx-auto lg:mb-44">
             <div class=" mt-32 lg:-mx-6 lg:flex lg:items-center">
                 <img class="object-cover md:w-full lg:w-5/12 w-[338px] md:h-72 lg:h-2/3 absolute"
-                    src="../assets/Sigma/Sigma.jpg" alt="">
+                    src="../assets/gifbleu.gif" alt="gif sigma">
 
                 <div class=" relative top-56 md:top-0 lg:ml-[500px] lg:mt-6 lg:w-1/2  bg-sky-600 md:py-20 px-7 py-4">
                     <p class="text-sm text-white uppercase">Wordpress</p>
@@ -37,13 +37,13 @@
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-14">
             <div>
-                <img class="h-64 max-w-full rounded-lg" src="../assets/Sigma/sigma1.jpg" alt="">
+                <img class="h-64 max-w-full rounded-lg" src="../assets/Sigma/sigma1.jpg" alt="image site sigma">
             </div>
             <div>
-                <img class="h-64  max-w-full rounded-lg" src="../assets/Sigma/sigma2.jpg" alt="">
+                <img class="h-64  max-w-full rounded-lg" src="../assets/Sigma/sigma2.jpg" alt="image site sigma">
             </div>
             <div>
-                <img class="h-64 max-w-full rounded-lg" src="../assets/Sigma/sigma3.jpg" alt="">
+                <img class="h-64 max-w-full rounded-lg" src="../assets/Sigma/sigma3.jpg" alt="image site sigma">
             </div>
         </div>
 
